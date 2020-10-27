@@ -1,2 +1,7 @@
 # Jogo-Naves
-Desenvolvendo um game de naves utilizando html5,css3 e principalmente JavaScript.
+Desenvolvendo um game de naves para treinar as habilidades de:
+
+*  HTML5.
+*  CSS3.
+*  JavaScript.
+ 
