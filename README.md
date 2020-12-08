@@ -1,4 +1,4 @@
-# Jogo-Naves
+# Jogo: Naves
 Desenvolvendo um game de naves para treinar as habilidades de:
 
 *  HTML5.
